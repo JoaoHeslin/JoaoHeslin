@@ -8,7 +8,7 @@
 
 <br clear="both">
 
-<h2 align="left">TECHS</h2>
+<h2 align="left">TECHNOLOGIES</h2>
 
 ###
 
