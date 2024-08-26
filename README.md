@@ -8,7 +8,7 @@
 
 <br clear="both">
 
-<h2 align="left">TECHNOLOGIES</h2>
+<h2 align="left">TECHS</h2>
 
 ###
 
@@ -39,7 +39,6 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoaoHeslin&hide_title=true&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoHeslin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
