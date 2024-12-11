@@ -5,7 +5,7 @@
 ###
 
 <h4 align="left">🎓 Studying Information Systems at Federal University of Paraíba (UFPB).</h4>
-<h4 align="left">📊 Specialized in Data Science, focused on solving real-world problems through data.</h4>
+<h4 align="left">📊 Studying Data Science, focused on solving real-world problems through data.</h4>
 <h4 align="left">🤖 Extensive experience in Machine Learning, data analysis, and creating interactive dashboards.</h4>
 <h4 align="left">🧠 Currently enhancing my skills in Deep Learning to expand my capabilities in artificial intelligence.</h4>
 <h4 align="left">🌟 Passionate about extracting valuable insights and turning data into practical solutions.</h4>
@@ -19,7 +19,7 @@
 
 ###
 
-<h4 align="left">🧑‍💻 Deep Learning with frameworks like TensorFlow and PyTorch.</h4>
+<h4 align="left">🧑‍💻 Deep Learning with frameworks like TensorFlow.</h4>
 <h4 align="left">📈 Optimizing machine learning models for better performance.</h4>
 <h4 align="left">📊 Building advanced dashboards for data visualization with Streamlit.</h4>
 <h4 align="left">🔍 Exploring large datasets to solve complex challenges.</h4>
