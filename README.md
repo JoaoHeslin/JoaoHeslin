@@ -64,14 +64,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoHeslin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/JoaoHeslin/JoaoHeslin/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="center">SOCIAL MEDIA:</h2>
 
 ###
