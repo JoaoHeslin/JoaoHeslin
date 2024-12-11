@@ -1,8 +1,7 @@
 <h1 align="center">Hello! I'm João 👋</h1> 
 
 <h2 align="center">ABOUT ME</h2>
-
-###
+<hr>
 
 <h4 align="left">🎓 Studying Information Systems at Federal University of Paraíba (UFPB).</h4>
 <h4 align="left">📊 Studying Data Science, focused on solving real-world problems through data.</h4>
@@ -11,26 +10,24 @@
 <h4 align="left">🌟 Passionate about extracting valuable insights and turning data into practical solutions.</h4>
 <h4 align="left">💡 Always looking for new challenges and opportunities to learn and share knowledge.</h4>
 
-###
+<hr>
 
 <br clear="both">
 
 <h2 align="center">LEARNING JOURNEY</h2>
-
-###
+<hr>
 
 <h4 align="left">🧑‍💻 Deep Learning with frameworks like TensorFlow.</h4>
 <h4 align="left">📈 Optimizing machine learning models for better performance.</h4>
 <h4 align="left">📊 Building advanced dashboards for data visualization with Streamlit.</h4>
 <h4 align="left">🔍 Exploring large datasets to solve complex challenges.</h4>
 
-###
+<hr>
 
 <br clear="both">
 
 <h2 align="center">TECHS</h2>
-
-###
+<hr>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" height="40" alt="android logo"  />
@@ -54,19 +51,19 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
 </div>
 
-###
+<hr>
 
 <h2 align="center">STATS</h2>
-
-###
+<hr>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoHeslin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
-<h2 align="center">SOCIAL MEDIA:</h2>
+<hr>
 
-###
+<h2 align="center">SOCIAL MEDIA:</h2>
+<hr>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/João-Heslin" target="_blank">
