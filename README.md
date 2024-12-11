@@ -1,12 +1,13 @@
 <h1 align="center">Hello! I'm João 👋</h1> 
----
 
 <h2 align="center">ABOUT ME</h2>
-
 
 ###
 
 <h4 align="center">- Studying Information Systems at UFPB</h4>
+<h4 align="center">- Specialized in **Data Science**, with a focus on solving real-world problems through data.</h4>
+<h4 align="center">- Extensive experience in **Machine Learning**, data analysis, and creating interactive **dashboards**.</h4>
+<h4 align="center">- Currently enhancing my skills in **Deep Learning** to expand my capabilities in artificial intelligence.</h4>
 
 ###
 
@@ -56,26 +57,24 @@
 
 ###
 
-<h2 align="left">SOCAL MEDIA:</h2>
+<h2 align="left">SOCIAL MEDIA:</h2>
 
 ###
 
 <div align="center">
-  <a href="João Heslin" target="_blank">
+  <a href="https://www.linkedin.com/in/João-Heslin" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
-  <a href="João Heslin" target="_blank">
+  <a href="https://discord.com/users/João-Heslin" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
   </a>
-  <a href="joaoheslin9@gmail.com" target="_blank">
+  <a href="mailto:joaoheslin9@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
-  <a href="Joao_Heslin" target="_blank">
+  <a href="https://www.instagram.com/Joao_Heslin" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
   </a>
-  <a href="(83) 99818-4091" target="_blank">
+  <a href="https://wa.me/5583998184091" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="whatsapp logo"  />
   </a>
 </div>
-
-###
