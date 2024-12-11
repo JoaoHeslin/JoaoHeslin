@@ -4,16 +4,31 @@
 
 ###
 
-<h4 align="center">- Studying Information Systems at UFPB</h4>
-<h4 align="center">- Specialized in **Data Science**, with a focus on solving real-world problems through data.</h4>
-<h4 align="center">- Extensive experience in **Machine Learning**, data analysis, and creating interactive **dashboards**.</h4>
-<h4 align="center">- Currently enhancing my skills in **Deep Learning** to expand my capabilities in artificial intelligence.</h4>
+<h4 align="left">🎓 Studying Information Systems at Federal University of Paraíba (UFPB).</h4>
+<h4 align="left">📊 Specialized in Data Science, focused on solving real-world problems through data.</h4>
+<h4 align="left">🤖 Extensive experience in Machine Learning, data analysis, and creating interactive dashboards.</h4>
+<h4 align="left">🧠 Currently enhancing my skills in Deep Learning to expand my capabilities in artificial intelligence.</h4>
+<h4 align="left">🌟 Passionate about extracting valuable insights and turning data into practical solutions.</h4>
+<h4 align="left">💡 Always looking for new challenges and opportunities to learn and share knowledge.</h4>
 
 ###
 
 <br clear="both">
 
-<h2 align="left">TECHS</h2>
+<h2 align="center">LEARNING JOURNEY</h2>
+
+###
+
+<h4 align="left">🧑‍💻 Deep Learning with frameworks like TensorFlow and PyTorch.</h4>
+<h4 align="left">📈 Optimizing machine learning models for better performance.</h4>
+<h4 align="left">📊 Building advanced dashboards for data visualization with Streamlit.</h4>
+<h4 align="left">🔍 Exploring large datasets to solve complex challenges.</h4>
+
+###
+
+<br clear="both">
+
+<h2 align="center">TECHS</h2>
 
 ###
 
@@ -41,7 +56,7 @@
 
 ###
 
-<h2 align="left">STATS</h2>
+<h2 align="center">STATS</h2>
 
 ###
 
@@ -57,7 +72,7 @@
 
 ###
 
-<h2 align="left">SOCIAL MEDIA:</h2>
+<h2 align="center">SOCIAL MEDIA:</h2>
 
 ###
 
