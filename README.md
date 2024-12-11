@@ -63,7 +63,7 @@
 <hr>
 
 <h2 align="center">SOCIAL MEDIA:</h2>
-<hr>
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/João-Heslin" target="_blank">
