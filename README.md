@@ -1,6 +1,6 @@
 <h1 align="center">Hello! I'm João 👋</h1> 
 
-<h2 align="center">ABOUT ME</h2>
+<h2 align="center">ABOUT ME 🤔</h2>
 
 
 <h4 align="left">🎓 Studying Information Systems at Federal University of Paraíba (UFPB).</h4>
@@ -14,7 +14,7 @@
 
 <br clear="both">
 
-<h2 align="center">LEARNING JOURNEY</h2>
+<h2 align="center">LEARNING JOURNEY 📚</h2>
 
 
 <h4 align="left">🧑‍💻 Deep Learning with frameworks like TensorFlow.</h4>
@@ -26,7 +26,7 @@
 
 <br clear="both">
 
-<h2 align="center">TECHS</h2>
+<h2 align="center">TECHS 💻</h2>
 
 
 <div align="center">
@@ -53,7 +53,7 @@
 
 <hr>
 
-<h2 align="center">STATS</h2>
+<h2 align="center">STATS 📊</h2>
 
 
 <div align="center">
@@ -62,7 +62,7 @@
 
 <hr>
 
-<h2 align="center">SOCIAL MEDIA:</h2>
+<h2 align="center">SOCIAL MEDIA 🌐</h2>
 
 
 <div align="center">
