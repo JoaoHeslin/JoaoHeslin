@@ -1,7 +1,7 @@
 <h1 align="center">Hello! I'm João 👋</h1> 
 
 <h2 align="center">ABOUT ME</h2>
-<hr>
+
 
 <h4 align="left">🎓 Studying Information Systems at Federal University of Paraíba (UFPB).</h4>
 <h4 align="left">📊 Studying Data Science, focused on solving real-world problems through data.</h4>
@@ -15,7 +15,7 @@
 <br clear="both">
 
 <h2 align="center">LEARNING JOURNEY</h2>
-<hr>
+
 
 <h4 align="left">🧑‍💻 Deep Learning with frameworks like TensorFlow.</h4>
 <h4 align="left">📈 Optimizing machine learning models for better performance.</h4>
@@ -27,7 +27,7 @@
 <br clear="both">
 
 <h2 align="center">TECHS</h2>
-<hr>
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" height="40" alt="android logo"  />
@@ -54,7 +54,7 @@
 <hr>
 
 <h2 align="center">STATS</h2>
-<hr>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoHeslin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=true&order=2" height="150" alt="languages graph"  />
