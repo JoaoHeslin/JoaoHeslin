@@ -1,4 +1,8 @@
+<h1 align="center">Hello! I'm João 👋</h1> 
+---
+
 <h2 align="center">ABOUT ME</h2>
+
 
 ###
 
