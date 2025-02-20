@@ -14,18 +14,6 @@
 
 <br clear="both">
 
-<h2 align="center">LEARNING JOURNEY 📚</h2>
-
-
-<h4 align="left">🧑‍💻 Deep Learning with frameworks like TensorFlow.</h4>
-<h4 align="left">📈 Optimizing machine learning models for better performance.</h4>
-<h4 align="left">📊 Building advanced, interactive dashboards for data visualization using Streamlit and Power BI.</h4>
-<h4 align="left">🔍 Exploring large datasets to solve complex challenges.</h4>
-
-<hr>
-
-<br clear="both">
-
 <h2 align="center">TECHS 💻</h2>
 
 
