@@ -6,7 +6,7 @@
 <h4 align="left">🎓 Studying Information Systems at Federal University of Paraíba (UFPB).</h4>
 <h4 align="left">🧠 "Focused on Data Science and Artificial Intelligence, aiming to leverage data in solving real-world challenges.".</h4>
 <h4 align="left">🤖 Experience in Data Analysis, Creating Interactive Dashboards, Power BI, MySQL, Machine Learning, Neural Networks.</h4>
-<h4 align="left">🦜 "I’m currently diving into LangChain to build innovative intelligent agents and enhance my skills in artificial intelligence.".</h4>
+<h4 align="left">🦜 I’m currently diving into LangChain to build innovative intelligent agents and enhance my skills in artificial intelligence.</h4>
 <h4 align="left">🌟 Passionate about extracting valuable insights and turning data into practical solutions.</h4>
 <h4 align="left">💡 Always looking for new challenges and opportunities to learn and share knowledge.</h4>
 
