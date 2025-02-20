@@ -4,9 +4,9 @@
 
 
 <h4 align="left">🎓 Studying Information Systems at Federal University of Paraíba (UFPB).</h4>
-<h4 align="left">📊 Studying Data Science, focused on solving real-world problems through data.</h4>
-<h4 align="left">🤖 Extensive experience in Machine Learning, data analysis, and creating interactive dashboards.</h4>
-<h4 align="left">🧠 Currently enhancing my skills in Deep Learning to expand my capabilities in artificial intelligence.</h4>
+<h4 align="left">🧠 "Focused on Data Science and Artificial Intelligence, aiming to leverage data in solving real-world challenges.".</h4>
+<h4 align="left">🤖 Experience in Data Analysis, Creating Interactive Dashboards, Power BI, MySQL, Machine Learning, Neural Networks.</h4>
+<h4 align="left">🦜 "I’m currently diving into LangChain to build innovative intelligent agents and enhance my skills in artificial intelligence.".</h4>
 <h4 align="left">🌟 Passionate about extracting valuable insights and turning data into practical solutions.</h4>
 <h4 align="left">💡 Always looking for new challenges and opportunities to learn and share knowledge.</h4>
 
@@ -19,7 +19,7 @@
 
 <h4 align="left">🧑‍💻 Deep Learning with frameworks like TensorFlow.</h4>
 <h4 align="left">📈 Optimizing machine learning models for better performance.</h4>
-<h4 align="left">📊 Building advanced dashboards for data visualization with Streamlit.</h4>
+<h4 align="left">📊 Building advanced, interactive dashboards for data visualization using Streamlit and Power BI.</h4>
 <h4 align="left">🔍 Exploring large datasets to solve complex challenges.</h4>
 
 <hr>
