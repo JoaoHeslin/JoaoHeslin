@@ -12,8 +12,6 @@
 
 <hr>
 
-<br clear="both">
-
 <h2 align="center">TECHS 💻</h2>
 
 
