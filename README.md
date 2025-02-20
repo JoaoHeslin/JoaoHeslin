@@ -37,8 +37,6 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Microsoft_Power_BI_Logo_2022.svg" height="40" alt="powerbi logo" />
 </div>
 
 <hr>
