@@ -2,13 +2,23 @@
 
 <h2 align="center">ABOUT ME 🤔</h2>
 
+<h4 align="left">🎓 Currently studying Information Systems at the Federal University of Paraíba (UFPB).</h4>
 
-<h4 align="left">🎓 Studying Information Systems at Federal University of Paraíba (UFPB).</h4>
-<h4 align="left">🧠 "Focused on Data Science and Artificial Intelligence, aiming to leverage data in solving real-world challenges.".</h4>
-<h4 align="left">🤖 Experience in Data Analysis, Creating Interactive Dashboards, Machine Learning, Neural Networks.</h4>
-<h4 align="left">🦜 I’m currently diving into LangChain to build innovative intelligent agents and enhance my skills in artificial intelligence.</h4>
-<h4 align="left">🌟 Passionate about extracting valuable insights and turning data into practical solutions.</h4>
-<h4 align="left">💡 Always looking for new challenges and opportunities to learn and share knowledge.</h4>
+<h4 align="left">📊 <strong>Data Analysis:</strong> Experience analyzing data, cleaning datasets, and extracting insights to support decision-making.</h4>
+
+<h4 align="left">📈 <strong>Dashboards:</strong> Skilled in creating interactive dashboards using Python (e.g., Plotly, Streamlit) and Power BI.</h4>
+
+<h4 align="left">🧠 <strong>Machine Learning & Neural Networks:</strong> Hands-on experience building predictive models and training neural networks for real-world problems.</h4>
+
+<h4 align="left">🗄️ <strong>Databases:</strong> Solid experience with relational databases (MySQL), SQL queries, and data modeling.</h4>
+
+<h4 align="left">📊 <strong>Power BI:</strong> Proficient in designing and publishing insightful dashboards, using DAX and Power Query for data transformation.</h4>
+
+<h4 align="left">🦜 <strong>LangChain & AI Agents:</strong> Currently diving into LangChain to build intelligent agents and explore the latest in AI development.</h4>
+
+<h4 align="left">🚀 <strong>Purpose:</strong> Passionate about turning raw data into practical solutions and real impact.</h4>
+
+<h4 align="left">💡 <strong>Mindset:</strong> Always seeking new challenges, learning opportunities, and ways to share knowledge with others.</h4>
 
 <hr>
 
