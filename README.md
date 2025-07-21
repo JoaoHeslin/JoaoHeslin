@@ -1,29 +1,28 @@
-<h1 align="center">Hello! I'm João 👋</h1> 
+<h1 align="center">Olá! Eu sou João Heslin 👋</h1>
 
-<h2 align="center">ABOUT ME 🤔</h2>
+<h2 align="center">SOBRE MIM</h2>
 
-<h4 align="left">🎓 Currently studying Information Systems at the Federal University of Paraíba (UFPB).</h4>
+<h4 align="left">🎓 Graduando em Sistemas de Informação pela Universidade Federal da Paraíba (UFPB).</h4>
 
-<h4 align="left">📊 <strong>Data Analysis:</strong> Experience analyzing data, cleaning datasets, and extracting insights to support decision-making.</h4>
+<h4 align="left">📊 <strong>Análise de Dados:</strong> Experiência sólida em limpeza, exploração e análise de dados, com foco na geração de insights estratégicos para apoiar a tomada de decisões.</h4>
 
-<h4 align="left">📈 <strong>Dashboards:</strong> Skilled in creating interactive dashboards using Python (e.g., Plotly, Streamlit) and Power BI.</h4>
+<h4 align="left">📈 <strong>Dashboards Interativos:</strong> Habilidade em desenvolver painéis dinâmicos com Python (Plotly, Streamlit) e Power BI, entregando visualizações claras e impactantes.</h4>
 
-<h4 align="left">🧠 <strong>Machine Learning & Neural Networks:</strong> Hands-on experience building predictive models and training neural networks for real-world problems.</h4>
+<h4 align="left">🤖 <strong>Machine Learning e Redes Neurais:</strong> Experiência prática na construção de modelos preditivos e no treinamento de redes neurais aplicadas a problemas reais.</h4>
 
-<h4 align="left">🗄️ <strong>Databases:</strong> Solid experience with relational databases (MySQL), SQL queries, and data modeling.</h4>
+<h4 align="left">🗄️ <strong>Bancos de Dados:</strong> Domínio em bancos de dados relacionais (MySQL), modelagem de dados e construção de consultas SQL otimizadas.</h4>
 
-<h4 align="left">📊 <strong>Power BI:</strong> Proficient in designing and publishing insightful dashboards, using DAX and Power Query for data transformation.</h4>
+<h4 align="left">📊 <strong>Power BI:</strong> Proficiente em criação de relatórios analíticos, utilizando DAX e Power Query para transformar e integrar dados de diversas fontes.</h4>
 
-<h4 align="left">🦜 <strong>LangChain & AI Agents:</strong> Currently diving into LangChain to build intelligent agents and explore the latest in AI development.</h4>
+<h4 align="left">🦜 <strong>LangChain e Agentes de IA:</strong> Explorando o desenvolvimento de agentes inteligentes com LangChain e ferramentas modernas de Inteligência Artificial.</h4>
 
-<h4 align="left">🚀 <strong>Purpose:</strong> Passionate about turning raw data into practical solutions and real impact.</h4>
+<h4 align="left">🚀 <strong>Objetivo:</strong> Aplicar a ciência de dados para transformar dados brutos em soluções inovadoras com impacto real.</h4>
 
-<h4 align="left">💡 <strong>Mindset:</strong> Always seeking new challenges, learning opportunities, and ways to share knowledge with others.</h4>
+<h4 align="left">💡 <strong>Perfil:</strong> Profissional proativo, com mentalidade de crescimento, focado em desafios técnicos e aprendizado contínuo.</h4>
 
 <hr>
 
-<h2 align="center">TECHS 💻</h2>
-
+<h2 align="center">TECNOLOGIAS</h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" height="40" alt="android logo"  />
@@ -51,8 +50,7 @@
 
 <hr>
 
-<h2 align="center">STATS 📊</h2>
-
+<h2 align="center">ESTATÍSTICAS</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoHeslin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=true&order=2" height="150" alt="languages graph"  />
@@ -60,7 +58,7 @@
 
 <hr>
 
-<h2 align="center">SOCIAL MEDIA 🌐</h2>
+<h2 align="center">CONTATO</h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/João-Heslin" target="_blank">
