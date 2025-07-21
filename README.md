@@ -6,13 +6,13 @@
 
 <h4 align="left">📊 <strong>Análise de Dados:</strong> Experiência sólida em limpeza, exploração e análise de dados, com foco na geração de insights estratégicos para apoiar a tomada de decisões.</h4>
 
-<h4 align="left">📈 <strong>Dashboards Interativos:</strong> Habilidade em desenvolver painéis dinâmicos com Python (Plotly, Streamlit) e Power BI, entregando visualizações claras e impactantes.</h4>
-
-<h4 align="left">🤖 <strong>Machine Learning e Redes Neurais:</strong> Experiência prática na construção de modelos preditivos e no treinamento de redes neurais aplicadas a problemas reais.</h4>
-
 <h4 align="left">🗄️ <strong>Bancos de Dados:</strong> Domínio em bancos de dados relacionais (MySQL), modelagem de dados e construção de consultas SQL otimizadas.</h4>
 
 <h4 align="left">📊 <strong>Power BI:</strong> Proficiente em criação de relatórios analíticos, utilizando DAX e Power Query para transformar e integrar dados de diversas fontes.</h4>
+
+<h4 align="left">📈 <strong>Dashboards Interativos:</strong> Habilidade em desenvolver painéis dinâmicos com Python (Plotly, Streamlit) e Power BI, entregando visualizações claras e impactantes.</h4>
+
+<h4 align="left">🤖 <strong>Machine Learning e Redes Neurais:</strong> Experiência prática na construção de modelos preditivos e no treinamento de redes neurais aplicadas a problemas reais.</h4>
 
 <h4 align="left">🚀 <strong>Objetivo:</strong> Aplicar a ciência de dados para transformar dados brutos em soluções inovadoras com impacto real.</h4>
 
