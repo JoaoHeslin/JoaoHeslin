@@ -14,8 +14,6 @@
 
 <h4 align="left">📊 <strong>Power BI:</strong> Proficiente em criação de relatórios analíticos, utilizando DAX e Power Query para transformar e integrar dados de diversas fontes.</h4>
 
-<h4 align="left">🦜 <strong>LangChain e Agentes de IA:</strong> Explorando o desenvolvimento de agentes inteligentes com LangChain e ferramentas modernas de Inteligência Artificial.</h4>
-
 <h4 align="left">🚀 <strong>Objetivo:</strong> Aplicar a ciência de dados para transformar dados brutos em soluções inovadoras com impacto real.</h4>
 
 <h4 align="left">💡 <strong>Perfil:</strong> Profissional proativo, com mentalidade de crescimento, focado em desafios técnicos e aprendizado contínuo.</h4>
