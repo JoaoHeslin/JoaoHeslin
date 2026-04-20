@@ -4,17 +4,15 @@
 
 <h4 align="left">🎓 Graduando em Sistemas de Informação pela Universidade Federal da Paraíba (UFPB).</h4>
 
-<h4 align="left">🦜 <strong>Agentes Inteligentes e IA Generativa:</strong> Especialista no desenvolvimento de agentes autônomos e fluxos de trabalho complexos utilizando <strong>LangChain</strong> e <strong>LangGraph</strong>, integrando ferramentas via <strong>MCP (Model Context Protocol)</strong>.</h4>
-
-<h4 align="left">🔍 <strong>RAG & Recuperação de Dados:</strong> Implementação de sistemas de <strong>RAG (Retrieval-Augmented Generation)</strong> para conectar LLMs a bases de dados privadas, garantindo respostas precisas e contextualizadas.</h4>
-
 <h4 align="left">📊 <strong>Análise de Dados:</strong> Experiência sólida em limpeza, exploração e análise de dados, com foco na geração de insights estratégicos para apoiar a tomada de decisões.</h4>
-
-<h4 align="left">🤖 <strong>Machine Learning e Redes Neurais:</strong> Experiência prática na construção de modelos preditivos e no treinamento de redes neurais aplicadas a problemas reais.</h4>
 
 <h4 align="left">📈 <strong>Dashboards Interativos:</strong> Habilidade em desenvolver painéis dinâmicos com Python (Plotly, Streamlit) e Power BI, entregando visualizações claras e impactantes.</h4>
 
 <h4 align="left">🗄️ <strong>Bancos de Dados:</strong> Domínio em bancos de dados relacionais (MySQL), modelagem de dados e construção de consultas SQL otimizadas.</h4>
+
+<h4 align="left">🤖 <strong>Machine Learning e Redes Neurais:</strong> Experiência prática na construção de modelos preditivos e no treinamento de redes neurais aplicadas a problemas reais.</h4>
+
+<h4 align="left">🦜 <strong>Agentes Inteligentes e IA Generativa:</strong> Especialista no desenvolvimento de agentes autônomos e fluxos de trabalho complexos utilizando <strong>LangChain</strong> e <strong>LangGraph</strong>, integrando ferramentas via <strong>MCP (Model Context Protocol)</strong>.</h4>
 
 <hr>
 
