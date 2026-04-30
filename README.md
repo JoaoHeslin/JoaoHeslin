@@ -37,7 +37,7 @@
 
 <hr>
 
-<h2 align="center">CONTATO</h2>
+<h2 align="center">CONTATOS</h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/joão-heslin-5a5422325" target="_blank">
