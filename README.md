@@ -29,9 +29,6 @@
 
 <hr>
 
-<h2 align="center">ESTATÍSTICAS</h2>
-
-
 <h2 align="center">CONTATOS</h2>
 
 <div align="center">
