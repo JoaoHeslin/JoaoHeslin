@@ -31,7 +31,6 @@
 
 <h2 align="center">ESTATÍSTICAS</h2>
 
-<hr>
 
 <h2 align="center">CONTATOS</h2>
 
